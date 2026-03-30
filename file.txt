@@ -50,4 +50,4 @@
 
   This looks like a learning/educational project - possibly a coding bootcamp or
    tutorial assignment where students implement features step-by-step to build a
-   full expense tracking application.
+   full expense tracking application.update
